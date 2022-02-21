@@ -13,7 +13,7 @@ namespace AdjListDFS
             public int EndVertex { get; set; } //
             public int Weight { get; set; }
 
-            public Adjacency(int e, int w)
+            public Adjacency(int e, int w) //
             {
                 EndVertex = e;
                 Weight = w;
