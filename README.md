@@ -1,3 +1,3 @@
 AdjListDepthFirstSearch
 
-C# Depth First Search - stack implementation
+Depth First Search - stack implementation
